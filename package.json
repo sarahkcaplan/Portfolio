@@ -1,0 +1,35 @@
+{
+  "name": "portfolio_site",
+  "version": "1.0.0",
+  "description": "Sarah Caplan's portfolio of web development work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahkcaplan/Portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "web",
+    "development",
+    "HTML",
+    "JS",
+    "JavaScript",
+    "CSS",
+    "CSS3",
+    "Python",
+    "responsive",
+    "design"
+  ],
+  "author": "Sarah Caplan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahkcaplan/Portfolio/issues"
+  },
+  "homepage": "https://github.com/sarahkcaplan/Portfolio#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
