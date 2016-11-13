@@ -10,25 +10,25 @@ module.exports = function(grunt) {
         options: {
           engine: 'im',
           sizes: [{
-            name: 'x-small',
-            width: '25%',
-            suffix: '_x-small',
-            quality: 15
-          },{
-            name: 'small',
-            width: '30%',
-            suffix: '_small',
-            quality: 20
-          },{
-            name: 'medium',
+            name: 'xs',
             width: '50%',
-            suffix: '_medium',
+            suffix: '_x-small',
             quality: 40
           },{
-            name: 'large',
+            name: 's',
+            width: '60%',
+            suffix: '_small',
+            quality: 40
+          },{
+            name: 'm',
             width: '80%',
+            suffix: '_medium',
+            quality: 60
+          },{
+            name: 'l',
+            width: '95%',
             suffix: '_large',
-            quality: 50
+            quality: 80
       	 }]
         },
         files: [{
