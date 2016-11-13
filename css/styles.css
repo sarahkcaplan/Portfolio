@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+h1, h2 {
+	text-align: right;
+	color: #2d3c49;
+}
+h3 {
+	text-align: left;
+	color: #7d97ad;
+}
+article h3 {
+	text-align: center;
+	color: #2d3c49;
+}
+hr {
+	background-color: #2d3c49;
+	height: 3px;
+	margin: auto;
+}
+section {
+	margin: auto;
+}
