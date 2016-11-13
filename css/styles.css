@@ -14,11 +14,19 @@ article h3 {
 	text-align: center;
 	color: #2d3c49;
 }
-hr {
-	background-color: #2d3c49;
-	height: 3px;
+.container-fluid {
 	margin: auto;
+	width: 95%;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+hr {
+	background-color: #7d97ad;
+	height: 3px;
+	padding: 0;
+	margin: auto;
+	width: 95%;
 }
 section {
-	margin: auto;
+	padding: 15px;
 }
