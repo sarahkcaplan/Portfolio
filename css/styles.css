@@ -1,6 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
+	font-family: 'Heebo', sans-serif;
 }
 h1, h2 {
 	text-align: right;
