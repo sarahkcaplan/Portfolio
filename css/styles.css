@@ -14,7 +14,9 @@ h1, h2 {
 	margin-top: 10px;
 	margin-bottom: 0;
 }
-
+img.col-xs-12.col-sm-12.col-md-12 {
+	padding: 0;
+}
 h3 {
 	text-align: left;
 	color: #7d97ad;
@@ -53,6 +55,4 @@ hr {
   border: 0;
   border-top: 1px solid #eee;
 }
-section {
-	padding: 15px;
 
