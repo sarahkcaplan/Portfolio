@@ -28,7 +28,9 @@ color: #7d97ad;
 #logo {
   margin-top: 20px;
 }
-
+p {
+  text-align: center;
+}
 /*Style for screens larger than cell phone*/
 @media (min-width: 544px) {
   h1,h2 {
